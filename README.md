@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I am Ravin 👋
 
-<!--
-**mr-ravin/mr-ravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everything is Science if you can understand it, and is an Art if you can feel it. I am an engineer by degree, a researcher by hobby, and an artist by nature.
 
-Here are some ideas to get you started:
+A curious person 😇 blessed to see life as an artist🎨, engineer🎓, researcher🔬, inventor⚙️, mathematician🎲, and to make a significant contribution in these fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the contributions are mentioned here: 
+
+- 💽 Creator of "Embrace" a computer Language. 
+- 👾 Developed two Computer ransomwares (and its antivirus).
+- 📐 A theorem in Pure Mathematics.
+- 💰 Addictive auction theory in Theoretical Economics.
+- 🧪 A theory for electron pair present inside the p-atomic orbital in Quantum Chemistry.
+- 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
+- ⚛️ A novel algorithm in Quantum Computing. 
+- 🖥️ Cyclic scheduling algorithm in Operating Systems. 
+- 💻 Modified counting sort in Algorithms. 
+- 😊 Few Patented Inventions. 
+-  :octocat: 50+ software projects and repositories on Github.
+- 😎 Working experience from the year 2017 to 2019 in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
+- 😇 Along with this, he has done some paintings and related work in the field of Arts, and have also authored a short story in the English literature. All these experiences have given him a broader view of life, and help understand the world better. 
