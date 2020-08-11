@@ -14,7 +14,7 @@ Some of the contributions are mentioned here:
 - 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
 - ⚛️ A novel algorithm in Quantum Computing. 
 - 🖥️ Cyclic scheduling algorithm in Operating Systems. 
-- 🎮 A computer game written whose entire source code can be stored inside a QRCode.
+- 🎮 Developed a computer game, whose entire source code can be stored inside a QRCode.
 - 💻 Modified counting sort in Algorithms. 
 - 😊 Few Patented Inventions. 
 -  :octocat: 50+ software projects and repositories on Github.
