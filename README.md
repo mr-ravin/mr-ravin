@@ -14,7 +14,7 @@ Some of the contributions are mentioned here:
 - 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
 - ⚛️ A novel algorithm in Quantum Computing. 
 - 🖥️ Cyclic scheduling algorithm in Operating Systems. 
-- 🎮 Developed a computer game, whose entire source code can be stored inside a QRCode.
+- 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
 - 💻 Modified counting sort in Algorithms. 
 - 😊 Few Patented Inventions. 
 -  :octocat: 50+ software projects and repositories on Github.
