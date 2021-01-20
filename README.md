@@ -18,7 +18,6 @@ Some of the contributions are mentioned here:
 - 😊 Few Patented Inventions. 
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience from the year 2017 to 2019 in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 🃏 Creator of a card playing game.
 - 😇 Along with this, he has done some paintings and related work in the field of Arts, and have also authored a short story in the English literature. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
