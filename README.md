@@ -2,7 +2,7 @@ Hi, I am Ravin 👋
 
 Everything is Science if you can understand it, and is an Art if you can feel it. I am an engineer by degree, a researcher by hobby, and an artist by nature.
 
-A curious person 😇 blessed to see life as an artist🎨, engineer🎓, researcher🔬, inventor⚙️, mathematician🎲, and to make a significant contribution in these fields.
+A curious person 🙂 blessed 😇 to see life as an artist 🎨, engineer 🎓, researcher 🔬, inventor ⚙️, writer 🖋️, mathematician 🎲, economist 📈, hacker 👾, game-dev 🎮, and to make a significant contribution in these fields.
 
 Some of the contributions are mentioned here: 
 
