@@ -10,8 +10,6 @@ Some of the contributions are mentioned here:
 - 👾 Developed two Computer ransomwares (and its antivirus).
 - 📐 A theorem in Pure Mathematics.
 - 💰 Addictive auction theory in Theoretical Economics.
-- 🧪 A theory for electron pair present inside the p-atomic orbital in Quantum Chemistry.
-- ⌛ Research work on "Mathematical developments in the Simulation Hypothesis" in Physics.
 - 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
 - ⚛️ A novel algorithm in Quantum Computing. 
 - 🖥️ Cyclic scheduling algorithm in Operating Systems. 
