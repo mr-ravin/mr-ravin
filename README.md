@@ -15,7 +15,8 @@ Some of the contributions are mentioned here:
 - 🖥️ Cyclic scheduling algorithm in Operating Systems. 
 - 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
 - 💻 Modified counting sort in Algorithms. 
-- 😊 Few Patented Inventions. 
+- 😊 Some Patented Inventions:
+  - [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://drive.google.com/file/d/1bIFOYvdC-o79tPRa6TgO5GwusEhNK__f/view)
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of Arts, and have also authored some works in the English literature. All these experiences have given him a broader view of life, and help understand the world better. 
