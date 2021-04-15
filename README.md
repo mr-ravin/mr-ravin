@@ -9,7 +9,7 @@ Some of the contributions are mentioned here:
 - 💽 Creator of "Embrace" a computer Language. 
 - 👾 Developed two Computer ransomwares (and its antivirus).
 - 📐 A theorem in Pure Mathematics.
-- 💰 [Addictive auction](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf) theory in Theoretical Economics.
+- 💰 [Addictive auction theory](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf) in Theoretical Economics.
 - 🧪 Simultaneous Calculation of Momentum and Position of an Electron present inside p-orbital of the atom in Quantum Chemistry.
 - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
 - 🌏 Mathematical Developments in the Simulation Hypothesis in Physics.
@@ -23,6 +23,6 @@ Some of the contributions are mentioned here:
   - SYSTEM TO CREATE DIGITAL VARIANTS FROM DIGITAL MEDIA AND METHOD OF OPERATION THEREOF [Patent Pending]
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 😇 Along with this, he has done some paintings and related work in the field of Arts 🎨, and have also authored some works in the English literature 📝. All these experiences have given him a broader view of life, and help understand the world better. 
+- 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, and have also authored some works in the [English literature](https://www.facebook.com/RavinWritings) 📝. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
