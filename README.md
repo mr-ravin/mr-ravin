@@ -12,7 +12,7 @@ Some of the contributions are mentioned here:
 - 💰 [Addictive auction theory](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf) in Theoretical Economics.
 - 🧪 Simultaneous Calculation of Momentum and Position of an Electron present inside p-orbital of the atom in Quantum Chemistry.
 - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
-- 🌏 Mathematical Developments in the Simulation Hypothesis in Physics.
+- 🌏 [Mathematical developments in the simulation hypothesis](https://doi.org/10.25082/ACE.2021.01.001) in Physics.
 - 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
 - ⚛️ A novel [algorithm](https://doi.org/10.1007/s42979-020-0091-z) in Quantum Computing. 
 - 🖥️ [Cyclic scheduling algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38) in Operating Systems. 
