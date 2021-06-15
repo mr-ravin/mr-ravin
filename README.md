@@ -23,6 +23,6 @@ Some of the contributions are mentioned here:
   - SYSTEM TO CREATE DIGITAL VARIANTS FROM DIGITAL MEDIA AND METHOD OF OPERATION THEREOF [Patent Pending]
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, and have also authored some works in the [English literature](https://www.facebook.com/RavinWritings) 📝. All these experiences have given him a broader view of life, and help understand the world better. 
+- 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, poetry, and have also authored some works in the [English literature](https://www.facebook.com/RavinWritings) 📝. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
