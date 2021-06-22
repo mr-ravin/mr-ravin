@@ -2,7 +2,7 @@ Hi, I am Ravin 👋
 
 Everything is Science if you can understand it, and is an Art if you can feel it. I am an engineer by degree, a researcher by hobby, and an artist by nature.
 
-A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🔬, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf) 📈, [poet](https://mr-ravin.github.io/poet/) 🖋️, [mathematician](https://www.svedbergopen.com/journals/International-Journal-of-Pure-and-Applied-Mathematics-Research/About-the-Journal/) 🎲, [hacker](https://mr-ravin.github.io/hacker/) 👾, [game-dev](https://mr-ravin.github.io/gamedev/) 🎮, author 📘, and to make a significant contribution in these fields.
+A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🔬, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://mr-ravin.github.io/economist/) 📈, [poet](https://mr-ravin.github.io/poet/) 🖋️, [mathematician](https://www.svedbergopen.com/journals/International-Journal-of-Pure-and-Applied-Mathematics-Research/About-the-Journal/) 🎲, [hacker](https://mr-ravin.github.io/hacker/) 👾, [game-dev](https://mr-ravin.github.io/gamedev/) 🎮, author 📘, and to make a significant contribution in these fields.
 
 Some of the contributions are mentioned here: 
 
