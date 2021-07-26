@@ -14,7 +14,7 @@ Some of the contributions are mentioned here:
 - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
 - 🌏 [Mathematical developments in the simulation hypothesis](https://doi.org/10.25082/ACE.2021.01.001) in Physics.
 - 🤖 Cutting edge novel research works in the field of Natural Language Processing, Computer Vision, Deep Learning, and Artificial Intelligence.
-- ⚛️ A novel [algorithm](https://doi.org/10.1007/s42979-020-0091-z) in Quantum Computing. 
+- ⚛  A novel [algorithm](https://doi.org/10.1007/s42979-020-0091-z) in Quantum Computing. 
 - 🖥️ [Cyclic scheduling algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38) in Operating Systems. 
 - 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
 - 💻 [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21) in Algorithms. 
