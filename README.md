@@ -19,7 +19,7 @@ Some of the contributions are mentioned here:
 - 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
 - 💻 [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21) in Algorithms. 
 - 😊 <i><b>Patented Inventions</b></i>:
-  - [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://drive.google.com/file/d/1bIFOYvdC-o79tPRa6TgO5GwusEhNK__f/view)
+  - [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/Patent%20Certificate.20247443.pdf)
   - SYSTEM TO CREATE DIGITAL VARIANTS FROM DIGITAL MEDIA AND METHOD OF OPERATION THEREOF [Patent Pending]
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
