@@ -8,7 +8,7 @@ Some of the contributions are mentioned here:
 
 - 💽 Creator of "Embrace" a computer Language. 
 - 👾 Developed two Computer ransomwares (and its antivirus).
-- 📐 A theorem on numbers of the form 10<sup>x</sup> in Pure Mathematics.
+- 📐 [A theorem on numbers of the form 10<sup>x</sup>]() in Pure Mathematics.
 - 💰 [Addictive auction theory](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf) in Theoretical Economics.
 - 🧪 Simultaneous Calculation of Momentum and Position of an Electron present inside p-orbital of the atom in Quantum Chemistry.
 - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
