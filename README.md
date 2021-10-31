@@ -21,6 +21,7 @@ Some of the contributions are mentioned here:
 - 😊 <i><b>Patented Inventions</b></i>:
   - [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/Patent%20Certificate.20247443.pdf)
   - SYSTEM TO CREATE DIGITAL VARIANTS FROM DIGITAL MEDIA AND METHOD OF OPERATION THEREOF [Patent Pending]
+  - A SYSTEM FOR HAND GESTURE RECOGNITION TO FACILITATE HUMAN-COMPUTER INTERACTION AND ITS METHOD THEREOF [Patent Pending]
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/), and have also authored some works in the [English literature](https://mr-ravin.github.io/author) 📝. All these experiences have given him a broader view of life, and help understand the world better. 
