@@ -25,6 +25,6 @@ Some of the contributions are mentioned here:
   - A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF [Patent Pending]
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/), and have also authored a book "[The Engineer's Plan]()" 📝. All these experiences have given him a broader view of life, and help understand the world better. 
+- 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and have also authored a book "[The Engineer's Plan]()" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
