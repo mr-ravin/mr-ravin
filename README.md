@@ -1,3 +1,5 @@
+![The Engineer's Plan](https://github.com/mr-ravin/author/blob/main/The%20Engineer's%20Plan.jpg)
+
 Hi, I am Ravin 👋
 
 Everything is Science if you can understand it, and is an Art if you can feel it. I am an engineer by degree, a researcher by hobby, and an artist by nature.
