@@ -21,7 +21,6 @@ Some of the contributions are mentioned here:
 - 💻 [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21) in Algorithms. 
 - 😊 <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/Patent%20Certificate.20247443.pdf)
-  - [ ] A SYSTEM FOR HAND GESTURE RECOGNITION TO FACILITATE HUMAN-COMPUTER INTERACTION AND ITS METHOD THEREOF
   - [ ] A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
