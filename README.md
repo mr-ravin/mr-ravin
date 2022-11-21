@@ -20,8 +20,8 @@ Some of the contributions are mentioned here:
 - 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
 - 💻 [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21) in Algorithms. 
 - 😊 <i><b>Patented Inventions</b></i>:
-  - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/Patent%20Certificate.20247443.pdf)
-  - [ ] A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF
+  - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
+  - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateDevice.fa3d048e457c160e6eef.pdf)
 -  :octocat: 50+ software projects and repositories on Github.
 - 😎 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
