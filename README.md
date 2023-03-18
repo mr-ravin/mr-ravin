@@ -9,7 +9,8 @@ A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.g
 Checkout 😇 my Youtube Channel ▶️: [Code Beings](https://youtube.com/@codebeings)
 
 Some of the contributions are mentioned here: 
- 
+
+- 💽 Creator of "Embrace" a computer Language. 
 - 👾 Developed two Computer ransomwares (and its antivirus).
 - 📐 [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf) in **Pure Mathematics**.
 - 💰 [Addictive auction theory](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf) in **Theoretical Economics**.
