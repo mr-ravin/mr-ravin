@@ -23,11 +23,14 @@ Some of the contributions are mentioned here:
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateDevice.fa3d048e457c160e6eef.pdf)
-- 🎮 Indie-Game Developer, have developed few indie games such as [RotationWars](https://github.com/mr-ravin/rotationwars), [QRGAME](https://github.com/mr-ravin/QRGame), and [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head).
-- 📱 **Indie Android Apps**: 
+- 🎮 <i><b>Indie-Game Developer</b></i>: 
+  - [x] [RotationWars](https://github.com/mr-ravin/rotationwars): Indie-game developed using **Unity3D** Game Engine with C# programming language in a single day. The idea of this multi-player game is "last one standing wins."
+  - [x] [QRGAME](https://github.com/mr-ravin/QRGame) :  An opensource computer game whose entire source code can be stored inside a QRCode.
+  - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**. In this game the player have to save the character from hitting the Falling Blocks.
+- 📱 <i><b>Indie Android App Developer</b></i>: 
   - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
   - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
-  - [x] [RotationWars](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars): Indie-game developed using Unity3D Game Engine in a single day. The idea of the game is "last one standing wins." 
+  - [x] [RotationWars](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars): Indie-game developed using Unity3D Game Engine in a single day. The idea of this multi-player game is "last one standing wins." 
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
