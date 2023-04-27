@@ -4,11 +4,10 @@ Hi, I am Ravin 👋
 
 A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🔬, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://mr-ravin.github.io/economist/) 📈, [poet](https://mr-ravin.github.io/poet/) 🖋️, [mathematician](https://mr-ravin.github.io/mathematician/) 🎲, [hacker](https://mr-ravin.github.io/hacker/) 👾, [game developer](https://mr-ravin.github.io/gamedev/) 🎮 and [writer](https://mr-ravin.github.io/author/) ✍️. Author of the book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘.
 
-Checkout 😇 my Youtube Channel ▶️: [Code Beings](https://youtube.com/@codebeings)
 
 Some of the contributions are mentioned here: 
-
-- 💽 Creator of "Embrace" a **computer Language**. 
+- 📘 Author of book: [The Engineer's Plan](https://www.amazon.in/dp/1636405118).
+- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings)
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateDevice.fa3d048e457c160e6eef.pdf)
