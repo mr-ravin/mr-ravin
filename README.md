@@ -30,7 +30,6 @@ Some of the contributions are mentioned here:
 - 📱 <i><b>Indie Android App Developer</b></i>: 
   - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
   - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
-  - [x] [RotationWars](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars): Indie-game developed using Unity3D Game Engine in a single day. The idea of this multi-player game is "last one standing wins." 
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [Arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
