@@ -34,11 +34,11 @@ Some of the contributions are mentioned here:
 - 🐍 <i><b>Python Packages</b></i>:
   - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): a python library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
-- 👾 Developed two Computer ransomwares (and its antivirus).
 - 🎮 <i><b>Indie-Game Developer</b></i>: 
   - [x] [RotationWars](https://github.com/mr-ravin/rotationwars): Indie-game developed using **Unity3D** Game Engine with C# programming language in a single day. The idea of this multi-player game is "last one standing wins."
   - [x] [QRGAME](https://github.com/mr-ravin/QRGame) :  An opensource computer game whose entire source code can be stored inside a QRCode.
   - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**. In this game the player have to save the character from hitting the Falling Blocks.
+- 👾 Developed two Computer ransomwares (and its antivirus).
 - 📱 <i><b>Indie Android App Developer</b></i>: 
   - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
   - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
