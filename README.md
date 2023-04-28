@@ -37,9 +37,9 @@ Some of the contributions are mentioned here:
 - 👾 <i><b>Ethical Hacking</b></i>: 
   - [Developed and copyrighted two Computer ransomwares (and their antivirus)](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
   - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
-  - 📱 <i><b>Indie-Android Apps</b></i>: 
-    - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
-    - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
+  - 📱 Android Apps 
+    - [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
+    - [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
 - 🐍 <i><b>Python Packages</b></i>:
   - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
