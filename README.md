@@ -2,7 +2,7 @@
 
 Hi, I am Ravin 👋
 
-A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🔬, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://mr-ravin.github.io/economist/) 📈, [poet](https://mr-ravin.github.io/poet/) 🖋️, [mathematician](https://mr-ravin.github.io/mathematician/) 🎲, [hacker](https://mr-ravin.github.io/hacker/) 👾, [game developer](https://mr-ravin.github.io/gamedev/) 🎮 and [writer](https://mr-ravin.github.io/author/) ✍️. Author of the book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘.
+A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🔬, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://mr-ravin.github.io/economist/) 📈, [poet](https://mr-ravin.github.io/poet/) 🖋️, [mathematician](https://mr-ravin.github.io/mathematician/) 🎲, [hacker](https://mr-ravin.github.io/hacker/) 👾, [game developer](https://mr-ravin.github.io/gamedev/) 🎮 and [writer](https://mr-ravin.github.io/author/) ✍️.
 
 
 Some of the contributions are mentioned here: 
@@ -30,17 +30,19 @@ Some of the contributions are mentioned here:
     - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf).
   - 🌏 Physics
     - [Mathematical developments in the simulation hypothesis](https://github.com/mr-ravin/mr-ravin.github.io/blob/main/Mathematical%20developments%20in%20the%20simulation%20hypothesis.pdf).
-- 🐍 <i><b>Python Packages</b></i>:
-  - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
-  - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
 - 🎮 <i><b>Indie-Game Developer</b></i>: 
   - [x] [RotationWars](https://github.com/mr-ravin/rotationwars): Indie-game developed using **Unity3D** Game Engine with C# programming language in a single day. The idea of this multi-player game is "last one standing wins."
   - [x] [QRGAME](https://github.com/mr-ravin/QRGame): An opensource computer game whose entire source code can be stored inside a QRCode.
   - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**. In this game the player have to save the character from hitting the Falling Blocks.
-- 👾 Developed two Computer ransomwares (and its antivirus).
-- 📱 <i><b>Indie Android App Developer</b></i>: 
-  - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
-  - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
+- 👾 <i><b>Ethical Hacking</b></i>: 
+  - [Developed and copyrighted two Computer ransomwares (and their antivirus)](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
+  - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
+  - 📱 <i><b>Indie-Android Apps</b></i>: 
+    - [x] [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
+    - [x] [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
+- 🐍 <i><b>Python Packages</b></i>:
+  - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
+  - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
