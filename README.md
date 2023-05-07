@@ -7,7 +7,8 @@ A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.g
 
 Some of the contributions are mentioned here: 
 - 📘 Author of book: [The Engineer's Plan](https://www.amazon.in/dp/1636405118).
-- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings)
+- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
+- 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateDevice.fa3d048e457c160e6eef.pdf)
