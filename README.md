@@ -26,7 +26,7 @@ Some of the contributions are mentioned here:
     - [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21).
   - 📐 Mathematics
     - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf).
-    - Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures.
+    - [Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures](https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.pdf).
   - 💰 Theoretical Economics
     - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf).
   - 🌏 Physics
