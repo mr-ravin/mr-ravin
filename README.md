@@ -41,7 +41,7 @@ Some of the contributions are mentioned here:
   - 📱 Android Apps 
     - [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
     - [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
-- 📱Android Apps
+- 📱<i><b>Indie App Developer</b></i>
   - [Password Manager](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager): This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
   - [Confidential Book](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook): This application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
 - 🐍 <i><b>Python Packages</b></i>:
