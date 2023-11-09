@@ -41,9 +41,8 @@ Some of the contributions are mentioned here:
   - 📱 Android Apps 
     - [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
     - [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
-- 📱<i><b>Indie App Developer</b></i>:
-  - [Password Manager - Cybersecure](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager): This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
-  - [Confi Book - an encrypted book](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook): This application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
+    - [Password Manager - Cybersecure](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager): This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
+    - [Confi Book - an encrypted book](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook): This application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
 - 🐍 <i><b>Python Packages</b></i>:
   - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
