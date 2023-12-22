@@ -36,8 +36,9 @@ Some of the contributions are mentioned here:
   - [x] [QRGAME](https://github.com/mr-ravin/QRGame): An opensource computer game whose entire source code can be stored inside a QRCode.
   - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**. In this game the player have to save the character from hitting the Falling Blocks.
 - 👾 <i><b>Ethical Hacking</b></i>: 
-  - [Developed and copyrighted two Computer ransomwares (and their antivirus)](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
-  - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
+  - Developed and copyrighted two Computer ransomwares (and their antivirus)
+    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
+    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
   - 📱 Android Apps 
     - [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
     - [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
