@@ -48,6 +48,6 @@ Some of the contributions are mentioned here:
   - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://www.amazon.in/dp/1636405118)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
+- 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://mr-ravin.github.io/author/)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
