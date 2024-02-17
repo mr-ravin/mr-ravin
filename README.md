@@ -45,7 +45,7 @@ Some of the contributions are mentioned here:
     - [Password Manager - Cybersecure](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
     - [Confi Book - an encrypted book](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
 - 🐍 <i><b>Python Packages</b></i>:
-  - 🕸️ [Auto-MLFLOW](https://github.com/mr-ravin/auto-mlflow): an opensource automated MLOps library for MLFlow in python.
+  - 🕸️ [Auto-MLflow](https://github.com/mr-ravin/auto-mlflow): an opensource automated MLOps library for MLFlow in python.
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa.
   - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
