@@ -2,7 +2,7 @@
 
 Hi, I am Ravin 👋
 
-A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [game developer](https://mr-ravin.github.io/gamedev/) 🎮, [writer](https://mr-ravin.github.io/author/) ✍️...
+A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [writer](https://mr-ravin.github.io/author/) ✍️...
 
 Some of his achievements are mentioned below: 
 - 📘 Author of book: [The Engineer's Plan](https://www.amazon.in/dp/1636405118).
