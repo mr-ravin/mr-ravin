@@ -34,9 +34,9 @@ Some of his achievements are mentioned below:
   - 🌏 Physics
     - [Mathematical developments in the simulation hypothesis](https://github.com/mr-ravin/mr-ravin.github.io/blob/main/Mathematical%20developments%20in%20the%20simulation%20hypothesis.pdf).
 - 🎮 <i><b>Indie-Game Developer</b></i>: 
-  - [x] [RotationWars](https://github.com/mr-ravin/rotationwars): Indie-game developed using **Unity3D** Game Engine with C# programming language in a single day. The idea of this multi-player game is "last one standing wins."
-  - [x] [QRGAME](https://github.com/mr-ravin/QRGame): An opensource computer game whose entire source code can be stored inside a QRCode.
-  - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**. In this game the player have to save the character from hitting the Falling Blocks.
+  - [x] [RotationWars](https://github.com/mr-ravin/rotationwars): A multiplayer indie game developed with the **Unity3D** game engine for android, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
+  - [x] [QRGAME](https://github.com/mr-ravin/QRGame): QRGame is a minimalist, terminal-based typing game where the player must quickly type a displayed key and press Enter before time runs out. As players advance, the time to respond shortens, pushing speed and accuracy to the limit. A single mistake ends the game, keeping the tension high as the challenge intensifies. True to its name, QRGame can be stored entirely within a simple QR code, making it easy to share and quick to start!
+  - [x] [Blocks-N-Head](https://github.com/mr-ravin/blocks-n-head): An opensource game built with **GoDot Game Engine**, where the objective is to help the character avoid falling blocks.
 - 👾 <i><b>Ethical Hacking</b></i>: 
   - Developed and copyrighted two Computer ransomwares (and their antivirus)
     - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
