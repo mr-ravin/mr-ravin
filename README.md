@@ -1,4 +1,4 @@
-[![The Engineer's Plan](https://github.com/mr-ravin/author/blob/main/The%20Engineer's%20Plan.jpg)](https://www.amazon.in/Engineers-Plan-Ravin-Kumar/dp/1636405118/)
+[![The Engineer's Plan](https://github.com/mr-ravin/author/blob/main/The%20Engineer's%20Plan.jpg)](https://mr-ravin.github.io/author)
 
 Hi, I am Ravin 👋
 
