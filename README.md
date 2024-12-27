@@ -12,8 +12,8 @@ Some of his achievements are mentioned below:
 - ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
 - 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
-  - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
-  - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://github.com/mr-ravin/inventor/blob/main/static/media/PatentCertificateDevice.fa3d048e457c160e6eef.pdf)
+  - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
+  - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf)
 - 🔬 <i><b>Research Works</b></i> done in various fields:
   - 🤖 Deep Learning and Artificial Intelligence
     - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119).
@@ -27,10 +27,10 @@ Some of his achievements are mentioned below:
     - [Cyclic scheduling algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38). 
     - [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21).
   - 📐 Mathematics
-    - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf).
-    - [Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures](https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.pdf).
+    - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf).
+    - [Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures](https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf).
   - 💰 Theoretical Economics
-    - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf).
+    - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7e7d2c2b61478.pdf).
   - 🌏 Physics
     - [Mathematical developments in the simulation hypothesis](https://github.com/mr-ravin/mr-ravin.github.io/blob/main/Mathematical%20developments%20in%20the%20simulation%20hypothesis.pdf).
 - 🎮 <i><b>Indie-Game Developer</b></i>: 
