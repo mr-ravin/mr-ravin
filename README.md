@@ -8,7 +8,7 @@ A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.g
 He is author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs a youtube channel ▶️ "[Code Beings](https://youtube.com/@codebeings)" for sharing knowledge related to computer programming.
 
 Some of his achievements are mentioned below: 
-- 📘 Author of book: [The Engineer's Plan](https://www.amazon.in/dp/1636405118).
+- 📘 Author of book: [The Engineer's Plan](https://mr-ravin.github.io/author).
 - ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
 - 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
