@@ -54,3 +54,10 @@ Some of his achievements are mentioned below:
 - 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://mr-ravin.github.io/author/)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
+
+----
+
+##### Social Media Profiles:
+- Code and Content: [Youtube](https://www.youtube.com/@CodeBeings), [Github](http://github.com/mr-ravin), [Goodreads](https://www.goodreads.com/ravinkumar21).
+- Social Media: [Linkedin](https://in.linkedin.com/in/ravinkumar21), [Twitter](https://twitter.com/Mr_RavinKumar), [Instagram](https://www.instagram.com/artistravin), [Facebook](https://www.facebook.com/ravinkumar21).
+- Research: [Research Gate](https://www.researchgate.net/profile/Ravin-Kumar), [Orcid](https://orcid.org/0000-0002-3416-2679), [Google Scholar](https://scholar.google.co.in/citations?user=cNAbJxcAAAAJ).
