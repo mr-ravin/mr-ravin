@@ -43,10 +43,10 @@ Some of his achievements are mentioned below:
     - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
     - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
   - 📱 Android Apps 
-    - [FileCrypt](https://play.google.com/store/apps/details?id=ravin.developer.filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
-    - [EnText](https://play.google.com/store/apps/details?id=ravin.developer.entext): Opensource text encryption tool for android using AES-128 bit encryption.
-    - [Password Manager - Cybersecure](https://play.google.com/store/apps/details?id=ravin.developer.passwordmanager): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
-    - [Confi Book - an encrypted book](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
+    - [FileCrypt](https://github.com/mr-ravin/filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
+    - [EnText](https://github.com/mr-ravin/EnText): Opensource text encryption tool for android using AES-128 bit encryption.
+    - [Password Manager - Cybersecure](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
+    - [Confi Book - an encrypted book](https://github.com/mr-ravin/ConfiBook-Android-App): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
 - 🐍 <i><b>Python Packages</b></i>:
   - 🕸️ [Auto_MLflow](https://github.com/mr-ravin/auto_mlflow): an opensource automated MLOps library for MLFlow in python. Pip Package: `pip install auto_mlflow`
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa. Pip Package: `pip install bingenetic`
