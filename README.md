@@ -50,7 +50,7 @@ Some of his achievements are mentioned below:
 - 🐍 <i><b>Python Packages</b></i>:
   - 🕸️ [Auto_MLflow](https://github.com/mr-ravin/auto_mlflow): an opensource automated MLOps library for MLFlow in python. Pip Package: `pip install auto_mlflow`
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): an opensource library to convert binary data (in digital form) to genetic sequences (dna or rna) and vice versa. Pip Package: `pip install bingenetic`
-  - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. Pip Package: `pip install ravdec` and NPM Package: [RavdecJs](https://www.npmjs.com/package/ravdecjs).
+  - 📊 [Ravdec](https://github.com/mr-ravin/ravdec): a lossless data compression algorithm for alpha-numeric data. Pip Package: `pip install ravdec` and NPM Package: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
 - 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://mr-ravin.github.io/author/)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
 
