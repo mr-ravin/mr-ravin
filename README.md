@@ -51,10 +51,16 @@ Some of his achievements are mentioned below:
   - 🤖 [Auto_MLflow](https://github.com/mr-ravin/auto_mlflow): Auto MLFlow is an open-source automated MLOps library for MLFlow in Python. While MLFlow provides a UI for tracking experiments, Auto MLFlow automates and simplifies the logging process, reducing manual effort and ensuring seamless integration with ML workflows. pip package: `pip install auto_mlflow`
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): BinGenetic is a lightweight Python library that enables seamless conversion between binary data and genetic sequences (DNA or RNA), facilitating research in DNA data storage and bioinformatics. pip package: `pip install bingenetic`
   - 🚀  [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
-- 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing. 
-- 😇 Along with this, he has done some paintings and related work in the field of [arts](https://mr-ravin.github.io/artistravin/) 🎨, [poetry](https://mr-ravin.github.io/poet/)📝, and has also authored a book "[The Engineer's Plan](https://mr-ravin.github.io/author/)" 📘. All these experiences have given him a broader view of life, and help understand the world better. 
-
-🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
+- 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
+- 📝 <i><b>Poetry & Reflections</b></i>:
+  - [Not A Play](https://mr-ravin.github.io/poet/).
+  - [To be](https://mr-ravin.github.io/poet/).
+  - [The devil's rule](https://mr-ravin.github.io/poet/).
+  - [A Journey](https://mr-ravin.github.io/poet/).
+- 🎨 <i><b>Art & Expression</b></i>:
+    - [Artist's Portfolio](https://mr-ravin.github.io/artistravin/).
+  
+All these experiences have given him a broader view of life, and help understand the world better. 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
 
 ----
 
