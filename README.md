@@ -9,8 +9,7 @@ He is author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.i
 
 Some of his achievements are mentioned below: 
 - 📘 Author of book: [The Engineer's Plan](https://mr-ravin.github.io/author).
-- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
-- ▶️ Youtube Channel: [Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar).
+- ▶️ Youtube Channels: [Code Beings](https://youtube.com/@codebeings), and [Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar).
 - 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
