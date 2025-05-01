@@ -18,16 +18,16 @@ Some of his achievements are mentioned below:
   - 🤖 Deep Learning and Artificial Intelligence
     - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119).
     <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
-    - [Visual Linguistic Model and Its Applications in Image Captioning](https://doi.org/10.1007/s42979-020-00135-w).
     - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
+    - [Visual Linguistic Model and Its Applications in Image Captioning](https://doi.org/10.1007/s42979-020-00135-w).
     - [Adding Binary Search Connections to Improve DenseNet Performance](https://doi.org/10.2139/ssrn.3545071).
       <!-- Adding Binary Search Connections to Improve DenseNet Performance--Conference Proceedings of NGCT-- https://doi.org/10.2139/ssrn.3545071 -->
     - [New Approach to Train LSTMs, GRUs, and Other Similar Networks for Data Generation](https://doi.org/10.1007/978-981-15-1718-1_14).
   - ⚛ Quantum Computing
     - [A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2<sup>N</sup> Participants](https://doi.org/10.1007/s42979-020-0091-z).
   - 💻 Algorithm Design and Operating System
-    - [Cyclic scheduling algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38). 
-    - [Modified counting sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21).
+    - [Cyclic Scheduling Algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38). 
+    - [Modified Counting Sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21).
   - 📐 Mathematics
     -  Adaptive Base Representation Theorem: An Alternative to Binary Number System. 
     - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf).
