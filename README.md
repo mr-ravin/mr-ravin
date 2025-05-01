@@ -42,17 +42,17 @@ Some of his achievements are mentioned below:
   - [x] [Blocks 'N' Head](https://github.com/mr-ravin/blocks-n-head): An open-source minimalistic video game built with **GoDot Game Engine**, where the objective is to help the character avoid falling blocks.
 - 👾 <i><b>Ethical Hacking</b></i>: 
   - Developed and copyrighted two Computer ransomwares (and their antivirus)
-    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx) Diary number: 3512/2016-CO/SW.
-    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx) Diary number: 6429/2020-CO/SW.
+    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx), Diary number: 3512/2016-CO/SW.
+    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx), Diary number: 6429/2020-CO/SW.
   - 📱 Android Apps 
     - [FileCrypt](https://github.com/mr-ravin/filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
     - [EnText](https://github.com/mr-ravin/EnText): Opensource text encryption tool for android using AES-128 bit encryption.
     - [Password Manager - Cybersecure](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
     - [Confi Book - an encrypted book](https://github.com/mr-ravin/ConfiBook-Android-App): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
 - 🐍 <i><b>Python Packages</b></i>:
-  - ⚡ [APTx Activation Function](https://github.com/mr-ravin/aptx_activation): A Pytorch implementation of **APTx**: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning. `pip install aptx_activation`  
-  - 🧠 [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm): A PyTorch implementation of **Cerebral LSTM**: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. `pip install cerebral_lstm`
-  - 🤖 [Auto_MLflow](https://github.com/mr-ravin/auto_mlflow): Auto MLFlow is an open-source **automated MLOps library for MLFlow** in Python. While MLFlow provides a UI for tracking experiments, Auto MLFlow automates and simplifies the logging process, reducing manual effort and ensuring seamless integration with ML workflows. pip package: `pip install auto_mlflow`
+  - ⚡ [APTx Activation Function](https://github.com/mr-ravin/aptx_activation): A Pytorch implementation of **APTx**: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning. pip package: `pip install aptx_activation`  
+  - 🧠 [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm): A PyTorch implementation of **Cerebral LSTM**: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. pip package: `pip install cerebral_lstm`
+  - 🤖 [Auto MLflow](https://github.com/mr-ravin/auto_mlflow): Auto MLFlow is an open-source **automated MLOps library for MLFlow** in Python. While MLFlow provides a UI for tracking experiments, Auto MLFlow automates and simplifies the logging process, reducing manual effort and ensuring seamless integration with ML workflows. pip package: `pip install auto_mlflow`
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): BinGenetic is a lightweight Python library that enables seamless **conversion between binary data and genetic sequences (DNA or RNA)**, facilitating research in DNA data storage and bioinformatics. pip package: `pip install bingenetic`
   - 🚀  [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
