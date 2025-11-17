@@ -43,8 +43,8 @@ Some of his achievements are mentioned below:
   - [x] [Blocks 'N' Head](https://github.com/mr-ravin/blocks-n-head): An open-source minimalistic video game built with **GoDot Game Engine**, where the objective is to help the character avoid falling blocks.
 - 👾 <i><b>Ethical Hacking</b></i>: 
   - Developed and copyrighted two Computer ransomwares (and their antivirus)
-    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx), Diary number: 3512/2016-CO/SW.
-    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx), Diary number: 6429/2020-CO/SW.
+    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx), Diary number: 3512/2016-CO/SW. A Java-based cryptographic file-encryption program with a built-in recovery component, developed for academic cybersecurity research.
+    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx), Diary number: 6429/2020-CO/SW. A Java-based cryptographic file-encryption program with a corresponding recovery mechanism, developed as part of academic cybersecurity research.
   - 📱 Android Apps 
     - [FileCrypt](https://github.com/mr-ravin/filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
     - [EnText](https://github.com/mr-ravin/EnText): Opensource text encryption tool for android using AES-128 bit encryption.
