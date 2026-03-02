@@ -28,9 +28,7 @@ Senior AI Engineer specializing in designing and deploying intelligent systems, 
 ### 🐍 Python Packages (PyPI)
 - [APTx Neuron](https://github.com/mr-ravin/aptx_neuron) → `pip install aptx_neuron`  
 - [APTx Activation](https://github.com/mr-ravin/aptx_activation) → `pip install aptx_activation`  
-- [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm) → `pip install cerebral_lstm`  
-- [Ravdec (Python)](https://github.com/mr-ravin/ravdec) → `pip install ravdec`  
-- [RavdecJS (JavaScript)](https://www.npmjs.com/package/ravdecjs) → `npm i ravdecjs`  
+- [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm) → `pip install cerebral_lstm`
 
 ---
 
