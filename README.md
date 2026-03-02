@@ -36,17 +36,7 @@ Some of his achievements are mentioned below:
   - 💰 Theoretical Economics
     - The Economics of Sovereignty: Phased Virtual Currency and Coalition Reserve Entity.
     - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7e7d2c2b61478.pdf).
-- 🎮 <i><b>Indie-Game Developer</b></i>: 
-  - [x] [Rotation Wars 2](https://github.com/mr-ravin/rotationwars2): An open-source, minimalistic multiplayer game built with **Unity3D** for [Android](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars2), Linux, and [Web Browser](https://ravinkumar.itch.io/rotationwars2). Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.
-- 👾 <i><b>Ethical Hacking</b></i>: 
-  - Developed and copyrighted two Computer ransomwares (and their antivirus)
-    - [Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus](http://copyright.gov.in/SearchRoc.aspx), Diary number: 3512/2016-CO/SW. A Java-based cryptographic file-encryption program with a built-in recovery component, developed for academic cybersecurity research.
-    - [Cryptbits: Computer Ransomware and its reversal code](http://copyright.gov.in/SearchRoc.aspx), Diary number: 6429/2020-CO/SW. A Java-based cryptographic file-encryption program with a corresponding recovery mechanism, developed as part of academic cybersecurity research.
-  - 📱 Android Apps 
-    - [FileCrypt](https://github.com/mr-ravin/filecrypt): Opensource android application able to perform AES-128 bit on-device encryption on all types of files.
-    - [EnText](https://github.com/mr-ravin/EnText): Opensource text encryption tool for android using AES-128 bit encryption.
-    - [Password Manager - Cybersecure](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
-    - [Confi Book - an encrypted book](https://github.com/mr-ravin/ConfiBook-Android-App): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
+
 - 🐍 <i><b>Python Packages</b></i>:
     - ⚡ [APTx Neuron](https://github.com/mr-ravin/aptx_neuron): A Pytorch implementation of **APTx Neuron**: A Unified Trainable Neuron Architecture Integrating Activation and Computation. pip package: `pip install aptx_neuron`  
   - ⚡ [APTx Activation Function](https://github.com/mr-ravin/aptx_activation): A Pytorch implementation of **APTx**: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning. pip package: `pip install aptx_activation`  
@@ -55,17 +45,6 @@ Some of his achievements are mentioned below:
   - 🧬 [BinGenetic](https://github.com/mr-ravin/BinGenetic): BinGenetic is a lightweight Python library that enables seamless **conversion between binary data and genetic sequences (DNA or RNA)**, facilitating research in DNA data storage and bioinformatics. pip package: `pip install bingenetic`
   - 🚀  [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
-- 📝 <i><b>Poetry & Reflections</b></i>:
-  - [Not A Play](https://mr-ravin.github.io/poet).
-  - [To be](https://mr-ravin.github.io/poet).
-  - [The devil's rule](https://mr-ravin.github.io/poet).
-  - [A Journey](https://mr-ravin.github.io/poet).
-- 📃 <i><b>Ravin Writings</b></i>:
-  - [The River Between Us: Because Even Rivers Choose Love](https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf).
-  - [आख़िरी हिम्मत (Aakhiri Himmat)](https://mr-ravin.github.io/Aakhiri_Himmat.pdf).
-  - [बस इंसान (Bas Insaan)](https://mr-ravin.github.io/Bas_Insaan.pdf).
-- 🎨 <i><b>Art & Expression</b></i>:
-    - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
 All these experiences have given him a broader view of life, and help understand the world better. 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io).
 
