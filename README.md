@@ -5,6 +5,8 @@ Senior AI Engineer | Neural Architecture Design | Applied Machine Learning
 
 Senior AI Engineer specializing in designing and deploying intelligent systems, neural architectures, activation functions, and mathematically grounded AI solutions. Experienced in building production-grade machine learning systems across Deep Learning, Computer Vision, NLP, and MLOps environments.
 
+<b>Language</b>: English, Hindi (हिन्दी), German (A2)
+
 ---
 
 ### ⚙️ Patented Inventions
