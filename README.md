@@ -9,39 +9,45 @@ Senior AI Engineer specializing in designing and deploying intelligent systems, 
 
 ---
 
-### ⚙️ Patented Inventions
+### Patented Inventions
 - [Artificial Intelligence Enabled Automated System for Targeted Content on Display Devices](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf).
 - [Portable Data Storage Device for Secured Data Synchronization and Its Method](https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf).
 
 ---
 
-### 🔬 Selected Research Contributions in Artificial Intelligence and Mathematics:
+### Selected Research Contributions in Artificial Intelligence and Mathematics:
 - [APTx Neuron: A Unified Trainable Neuron Architecture Integrating Activation and Computation](https://arxiv.org/abs/2507.14270).
 - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119). <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
 - [Adaptive Base Representation Theorem: An Alternative to Binary Number System](https://arxiv.org/abs/2510.15099). <!-- Adaptive Base Representation Theorem: An Alternative to Binary Number System -- Kumar, R. (2026). Adaptive Base Representation Theorem: An Alternative to Binary Number System. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1458. Springer, Singapore. https://doi.org/10.1007/978-981-96-7499-2_37 --> 
 - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
 
-📚 Full publication list:  
+Full publication list:  
 - [ORCID](https://orcid.org/0000-0002-3416-2679)  
 - [Google Scholar](https://scholar.google.co.in/citations?user=cNAbJxcAAAAJ)
 
 ---
 
-### 🐍 Python Packages (PyPI)
+### Python Packages (PyPI)
 - [APTx Neuron](https://github.com/mr-ravin/aptx_neuron) → `pip install aptx_neuron`  
 - [APTx Activation](https://github.com/mr-ravin/aptx_activation) → `pip install aptx_activation`  
 - [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm) → `pip install cerebral_lstm`
 
 ---
 
-### 💼 Professional Experience
-Experience in product-focused startups building and scaling AI systems in:
+### Professional Experience
+7+ years of experience building and scaling production AI systems in product-focused environments, including:
 - Deep Learning (Pytorch, Tensorflow)
 - Computer Vision (CNN, Transformers, OpenCV)
 - Natural Language Processing (Transformers, LSTMs)  
 - MLOps & Deployment Pipelines
 - Python, C++, Java, and Javascript
 
+
+### Technical Expertise
+- Deep Learning: PyTorch, TensorFlow
+- Architectures: CNNs, Transformers, LSTMs
+- Systems: MLOps, model deployment, scalable pipelines
+- Programming: Python, C++, Java, JavaScript
 ---
 
 ### 🌐 More
