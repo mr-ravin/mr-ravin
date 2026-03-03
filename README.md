@@ -3,7 +3,7 @@
 ## Ravin Kumar  
 Senior AI Engineer | Neural Architecture Design | Applied Machine Learning
 
-Senior AI Engineer with 7+ years of experience designing and deploying scalable deep learning systems in production environments. Specialized in neural architecture design and mathematically grounded learning methods, with hands-on expertise across Computer Vision, NLP, and end-to-end MLOps pipelines.
+Senior AI Engineer with 7+ years of experience designing and deploying scalable deep learning systems in production environments. With research contributions in neural architecture design and mathematically grounded learning methods, with hands-on expertise across Computer Vision, NLP, and end-to-end MLOps pipelines.
 
 <b>Language</b>: English, Hindi (हिन्दी), German (A2)
 
@@ -50,13 +50,13 @@ Full publication list:
 - Programming: Python, C++, Java, JavaScript
 ---
 
-### 🌐 More
+### More
 For broader multidisciplinary work and independent projects:
 👉 https://mr-ravin.github.io  
 
 ---
 
-### 🔗 Connect
+### Connect
 - [LinkedIn](https://www.linkedin.com/in/ravinkumar21)
 - [Twitter/X](https://x.com/Mr_RavinKumar)
 - [ORCID](https://orcid.org/0000-0002-3416-2679)  
