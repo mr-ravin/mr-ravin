@@ -34,20 +34,19 @@ Full publication list:
 
 ---
 
-### Professional Experience
-7+ years of experience building and scaling production AI systems in product-focused environments, including:
-- Deep Learning (Pytorch, Tensorflow)
-- Computer Vision (CNN, Transformers, OpenCV)
-- Natural Language Processing (Transformers, LSTMs)  
-- MLOps & Deployment Pipelines
-- Python, C++, Java, and Javascript
+### Professional Experience & Technical Expertise
 
+7+ years of experience building and scaling production-grade AI systems in product-focused environments.
 
-### Technical Expertise
-- Deep Learning: PyTorch, TensorFlow
-- Architectures: CNNs, Transformers, LSTMs
-- Systems: MLOps, model deployment, scalable pipelines
-- Programming: Python, C++, Java, JavaScript
+Core areas of work include:
+
+- **Deep Learning:** PyTorch, TensorFlow  
+- **Computer Vision:** CNNs, Vision Transformers, OpenCV  
+- **Natural Language Processing:** Transformers, LSTMs  
+- **Model Engineering:** architecture design, optimization, training at scale  
+- **Systems & Deployment:** MLOps, MLflow, TorchServe, Docker, CI/CD pipelines, Git-based workflows
+- **Programming:** Python, C++, Java, JavaScript
+- 
 ---
 
 ### More
