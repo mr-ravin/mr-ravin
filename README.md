@@ -45,8 +45,8 @@ Core areas of work include:
 - **Natural Language Processing:** Transformers, LSTMs  
 - **Model Engineering:** architecture design, optimization, training at scale  
 - **Systems & Deployment:** MLOps, MLflow, TorchServe, Docker, CI/CD pipelines, Git-based workflows
-- **Programming:** Python, C++, Java, JavaScript
-- 
+- **Programming:** Python (primary), C++ for high-performance systems; previous full-stack development experience in Java and JavaScript (React Native)
+  
 ---
 
 ### More
