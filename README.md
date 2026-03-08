@@ -50,6 +50,9 @@ Core areas of work include:
 ---
 
 ### More
+
+Additional:  **Author** of the books "The Engineer’s Plan" and "Philosophy of the Trident", along with its Hindi version (त्रिशूल दर्शन).
+
 For broader multidisciplinary work and independent projects:
 👉 https://mr-ravin.github.io  
 
