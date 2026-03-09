@@ -60,6 +60,5 @@ For broader multidisciplinary work and independent projects:
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/ravinkumar21)
-- [Twitter/X](https://x.com/Mr_RavinKumar)
 - [ORCID](https://orcid.org/0000-0002-3416-2679)  
 - [Google Scholar](https://scholar.google.co.in/citations?user=cNAbJxcAAAAJ)
