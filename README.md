@@ -20,7 +20,7 @@ Senior AI Engineer with 7+ years of experience designing and deploying scalable 
 - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119). <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
 - [Adaptive Base Representation Theorem: An Alternative to Binary Number System](https://arxiv.org/abs/2510.15099). <!-- Adaptive Base Representation Theorem: An Alternative to Binary Number System -- Kumar, R. (2026). Adaptive Base Representation Theorem: An Alternative to Binary Number System. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1458. Springer, Singapore. https://doi.org/10.1007/978-981-96-7499-2_37 --> 
 - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
-- White Paper: [A Theoretical Model For Artificial Learning, Memory Management And Decision Making System](https://arxiv.org/abs/1907.04698), published in 2019 (written in 2015)
+- White Paper: [A Theoretical Model For Artificial Learning, Memory Management And Decision Making System](https://arxiv.org/abs/1907.04698), published in 2019 (written in 2015-16)
 
 Full publication list:  
 - [ORCID](https://orcid.org/0000-0002-3416-2679)  
