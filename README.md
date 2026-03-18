@@ -41,11 +41,12 @@ Full publication list:
 
 Core areas of work include:
 
-- **Deep Learning:** PyTorch, TensorFlow  
+- **Deep Learning:** PyTorch, TensorFlow
+- **LMMs and Agentic AI:** LangChain, Ollama 
 - **Computer Vision:** CNNs, Vision Transformers, OpenCV  
 - **Natural Language Processing:** Transformers, LSTMs  
 - **Model Engineering:** architecture design, optimization, training at scale  
-- **Systems & Deployment:** MLOps, MLflow, TorchServe, Docker, CI/CD pipelines, Git-based workflows
+- **Systems & Deployment:** MLOps, MLflow, TorchServe, Docker, CI/CD pipelines, Git-based workflows, FastAPI
 - **Programming:** Python (primary), C++ for high-performance systems; previous full-stack development experience in Java and JavaScript (React Native)
   
 ---
