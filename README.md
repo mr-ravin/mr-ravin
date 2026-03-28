@@ -1,7 +1,7 @@
 [![Research Works](https://github.com/mr-ravin/mr-ravin/blob/main/APTxNeuron_and_ABR_Theorem_cover.png)](https://orcid.org/0000-0002-3416-2679)
 
 ## Ravin Kumar  
-Senior AI Engineer | Neural Architecture Design | Applied Machine Learning
+Senior AI Engineer | Neural Architecture Design | Applied Machine Learning | Agentic AI
 
 Senior AI Engineer with 7+ years of experience designing and deploying scalable deep learning systems in production environments. With research contributions in neural architecture design and mathematically grounded learning methods, with hands-on expertise across Computer Vision, NLP, and end-to-end MLOps pipelines.
 
