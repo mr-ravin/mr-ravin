@@ -2,6 +2,7 @@
 
 ## Ravin Kumar  
 Sr AI Engineer || Applied Artificial Intelligence || Deep Learning || Agentic AI
+
 Senior AI Engineer with 7+ years of experience designing and deploying scalable deep learning systems in production environments. With research contributions in neural architecture design and mathematically grounded learning methods, with hands-on expertise across Computer Vision, NLP, and end-to-end MLOps pipelines.
 
 <b>Language</b>: English, Hindi (हिन्दी), German (A2)
