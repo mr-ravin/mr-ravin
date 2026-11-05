@@ -1,8 +1,7 @@
 [![Research Works](https://github.com/mr-ravin/mr-ravin/blob/main/APTxNeuron_and_ABR_Theorem_cover.png)](https://orcid.org/0000-0002-3416-2679)
 
 ## Ravin Kumar  
-Sr AI Engineer || Applied Artificial Intelligence || Deep Learning || Agentic AI || Author of books: The Engineer’s Plan, and Philosophy of the Trident
-
+Sr AI Engineer || Applied Artificial Intelligence || Deep Learning || Agentic AI
 Senior AI Engineer with 7+ years of experience designing and deploying scalable deep learning systems in production environments. With research contributions in neural architecture design and mathematically grounded learning methods, with hands-on expertise across Computer Vision, NLP, and end-to-end MLOps pipelines.
 
 <b>Language</b>: English, Hindi (हिन्दी), German (A2)
